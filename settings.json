@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "/tell @a Eu posso te ver :)",
-        "Alguem consegue me ajudar?",
-        "Alguem tem ferro?"
+        "/playsound minecraft:ambient.cave player @a",
+        "Meu clã é o melhor :D"
       ]
     },
     "chat-log": true,
