@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Achei diamante!",
+        "/tell @a Eu posso te ver :)",
         "Alguem consegue me ajudar?",
         "Alguem tem ferro?"
       ]
